@@ -1,0 +1,66 @@
+
+body{
+    background-color: black;
+}
+.container{
+    margin:0 auto;
+    width:28%;
+    margin-top:100px;
+    background-color: white;
+}
+
+.header-card {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
+
+}
+.left{
+    display: inline-flex;
+
+}
+.left-block {
+    display: block;
+
+}
+h4 {
+    margin:10px 0 0 10px;
+}
+h3 {
+    margin: 0 0 10px 10px;
+
+    font-weight: lighter;
+}
+.fa-html5 {
+    font-size: 30px;
+    margin: 10px 0 10px 10px;
+}
+
+.fa-ellipsis-v {
+    font-size:30px;
+    margin: 10px 10px 10px 0;
+}
+img{
+    max-width:100%;
+    height:auto;
+}
+
+.icones .far {
+    font-size:30px;
+}
+.icones {
+    display:flex;
+    justify-content: space-between;
+}
+
+.icons-left i {
+    margin: 10px 5px;
+}
+.fa-bookmark {
+    margin: 15px 10px 10px 0;
+}
+
+.comments{
+    padding: 0 10px 10px 10px;
+}
